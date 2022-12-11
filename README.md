@@ -2,6 +2,7 @@
 
 The project goal is to benchmark most popular embedded scripting languages for Rust.
 
+- [boa](https://crates.io/crates/boa_engine)
 - [mlua](https://crates.io/crates/mlua) (Lua 5.4 and Luau)
 - [rlua](https://crates.io/crates/rlua) (Lua 5.4)
 - [rhai](https://crates.io/crates/rhai)
